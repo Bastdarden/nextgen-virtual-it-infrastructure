@@ -3,27 +3,10 @@ This project simulates the end-to-end deployment of a small business IT environm
 nextgen-virtual-it-infrastructure/
 │
 ├── Documentation/
-│   ├── Project_Report.pdf
-│   ├── Network_Topology.png
-│   ├── VM_Configuration_Screenshots/
-│   └── Cloud_Integration_Screenshots/
-│
-├── Config_Files/
-│   ├── windows-static-ip.txt
-│   ├── linux-static-ip.txt
-│   └── vmware-network-settings.txt
-│
-├── Pings/
-│   ├── windows-ping-linux.png
-│   └── linux-ping-windows.png
-│
-├── Cloud_Test_Files/
-│   ├── test-upload.txt
-│   └── test-image.png
-│
-└── README.md
-[Module 1 Project Designing Cybersecurity-Aware IT Infrastructure for a Small Office.pdf](https://github.com/user-attachments/files/23571481/Module.1.Project.Designing.Cybersecurity-Aware.IT.Infrastructure.for.a.Small.Office.pdf)
-![Installing sudo apt tools after Ifconfig didn&#39;t work in Ubuntu](https://github.com/user-attachments/assets/e5f84b0a-d396-4895-982e-9fd0fab9624b)
+│   ├── [Module 1 Project Designing Cybersecurity-Aware IT Infrastructure for a Small Office.pdf](https://github.com/user-attachments/files/23571481/Module.1.Project.Designing.Cybersecurity-Aware.IT.Infrastructure.for.a.Small.Office.pdf)
+│  │
+├── Images/
+│  ![Installing sudo apt tools after Ifconfig didn&#39;t work in Ubuntu](https://github.com/user-attachments/assets/e5f84b0a-d396-4895-982e-9fd0fab9624b)
 ![Installing Linuex - Vol 1](https://github.com/user-attachments/assets/7b5cd3ee-5589-42f0-b290-6d88d7f61f60)
 ![Installed VMachine and got Ubuntu running](https://github.com/user-attachments/assets/ce6b500e-d61a-4711-99bd-ee875b5d14cf)
 ![google drive install on Windows ](https://github.com/user-attachments/assets/b4a0e8e5-61b8-49b0-a5c3-cdd0433333fb)
